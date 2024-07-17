@@ -62,7 +62,7 @@
   <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=pmunoz410&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
 
-<h2 align="center">👨‍💻 Repositorios 👨‍💻</h2>
+<h2 align="center">👨‍💻 Proyectos destacados 👨‍💻</h2>
 <br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/pmunoz410/blogcafe" title="Blog de Cafe">
