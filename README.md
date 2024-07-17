@@ -56,11 +56,13 @@
   <br/><br/><br/><br/><br/><br/><br/><br/><br/>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="32%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmunoz410&layout=compact&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb" />
+      <img width="390" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmunoz410&layout=compact&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb" />
     </a>
   </div>
   <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=pmunoz410&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
+
+<br/>
 
 <h2 align="center">👨‍💻 Proyectos destacados 👨‍💻</h2>
 <br/>
