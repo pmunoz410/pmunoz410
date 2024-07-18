@@ -3,7 +3,7 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola,+soy+Paul+Muñoz;Un+gusto+conocerte;Bienvenido!)
 
 <div align="center">
-  <code><a href="https://www.linkedin.com/in/p-munoz/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/p-munoz/" title="LinkedIn Profile" target="_blank"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 <div/>
 
 <br/>
