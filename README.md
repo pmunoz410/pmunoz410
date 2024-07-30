@@ -34,10 +34,11 @@
 
 <h2 align="center">🎯 Desarrollo de competencias 🎯</h2>
 <p align="center">
-  <code><img title="npm" height="40" src="images/npm.svg"></code>
+  <code><img title="NPM" height="40" src="images/npm.svg"></code>
   <code><img title="SASS" height="40" src="images/sass.svg"></code>
   <code><img title="Gulp" height="40" src="images/gulp.svg"></code>
   <code><img title="Javascript" height="40" src="images/javascript.svg"></code>
+  <code><img title="PHP" height="40" src="images/php.svg"></code>
 <p/>
 
 <br/>
@@ -67,11 +68,11 @@
 <h2 align="center">👨‍💻 Proyectos destacados 👨‍💻</h2>
 <br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/pmunoz410/blogcafe" title="Blog de Cafe">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=blogcafe&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/pmunoz410/festivalmusica" title="Festival de Musica">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=festivalmusica&theme=react&border_color=61dafb&border_radius=10">
+ <a align="right" href="https://github.com/pmunoz410/festivalmusica" title="Festival de Musica" target="_blank">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=festivalmusica&theme=react&border_color=61dafb&border_radius=10">
+  </a> 
+ <a align="left" href="https://github.com/pmunoz410/blogcafe" title="Blog de Cafe" target="_blank">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=blogcafe&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/>
