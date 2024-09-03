@@ -39,6 +39,7 @@
   <code><img title="Gulp" height="40" src="images/gulp.svg"></code>
   <code><img title="Javascript" height="40" src="images/javascript.svg"></code>
   <code><img title="PHP" height="40" src="images/php.svg"></code>
+ <code><img title="React" height="40" src="images/react-original.svg"></code>
 <p/>
 
 <br/>
@@ -66,15 +67,27 @@
 <br/>
 
 <h2 align="center">👨‍💻 Proyectos destacados 👨‍💻</h2>
-<br/>
-<div width="100%" align="center">
- <a align="right" href="https://github.com/pmunoz410/festivalmusica" title="Festival de Musica" target="_blank">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=festivalmusica&theme=react&border_color=61dafb&border_radius=10">
-  </a> 
- <a align="left" href="https://github.com/pmunoz410/blogcafe" title="Blog de Cafe" target="_blank">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=blogcafe&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
+<br>
+<p align="center">
+  <div align="center">
+    <a href="https://github.com/pmunoz410/bienesraices" title="Bienes Raices" role="link" target="_blank" rel="noopener noreferrer nofollow">
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=bienesraices&theme=react&border_color=61dafb&border_radius=10">
+    </a>
+    <a href="https://github.com/pmunoz410/festivalmusica" title="Festival de Musica" role="link" target="_blank" rel="noopener noreferrer nofollow">
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=festivalmusica&theme=react&border_color=61dafb&border_radius=10">
+    </a> 
+  </div>
+  
+  <br/><br/><br/><br/><br/><br/>
+  
+  <div align="center">
+    <a href="https://github.com/pmunoz410/blogcafe" title="Blog de Cafe" role="link" target="_blank" rel="noopener noreferrer nofollow">
+      <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=blogcafe&theme=react&border_color=61dafb&border_radius=10">
+    </a>
+  </div>
+</p>
+
+
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=pmunoz410&style=flat)
