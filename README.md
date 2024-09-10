@@ -55,7 +55,7 @@
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=pmunoz410&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="390" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmunoz410&layout=compact&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb" />
@@ -78,7 +78,7 @@
     </a> 
   </div>
   
-  <br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/>
   
   <div align="center">
     <a href="https://github.com/pmunoz410/blogcafe" title="Blog de Cafe" role="link" target="_blank" rel="noopener noreferrer nofollow">
