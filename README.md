@@ -17,29 +17,35 @@
 
 <h2 align="center">🔥 Habilidades 🔥</h2>
 <p align="center">
-  <!--<code><img title="C" height="40" src="images/c.svg"></code>-->
-  <code><img title="C#" height="40" src="images/cSharp.svg"></code>
-  <code><img title="Java" height="40" src="images/java-original.svg"></code>
-  <code><img title="HTML5" height="40" src="images/html5.svg"></code>
-  <code><img title="CSS" height="42" src="images/css.svg"></code>
-  <code><img title="MySQL" height="40" src="images/mysql.svg"></code>
-  <code><img title="PostgreSQL" height="40" src="images/postgresql.svg"></code>
-  <code><img title="Git" height="40" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="40" src="images/github.svg"></code>
-  <code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code>
+ <!--<code><img title="C" height="40" src="images/c.svg"></code>-->
+ <code><img title="C#" height="46" src="images/cSharp.svg"></code>
+ <code><img title="Java" height="50" src="images/java-original.svg"></code>
+ <code><img title="HTML5" height="47" src="images/html5.svg"></code>
+ <code><img title="CSS3" height="50" src="images/css.svg"></code>
+ <code><img title="Javascript" height="46" src="images/javascript.svg"></code>
+ <code><img title="SASS" height="46" src="images/sass.svg"></code>
+ <code><img title="MySQL" height="46" src="images/mysql.svg"></code>
+ <code><img title="PostgreSQL" height="46" src="images/postgresql.svg"></code>
+  
+ <code><img title="NPM" height="46" src="images/npm.svg"></code>
+ <code><img title="Linux" height="46" src="images/linux.png"></code>
+ <code><img title="Git" height="46" src="images/git-original.svg"></code>
+ <code><img title="GitHub" height="46" src="images/github.svg"></code>
+ <code><img title="Visual Studio Code" height="46" src="images/vscode.png"></code>
+ <code><img title="Microsoft Visual Studio" height="46" src="images/visualstudio.png"></code>
 <p/>
 
 <br/>
 
 <h2 align="center">🎯 Desarrollo de competencias 🎯</h2>
 <p align="center">
-  <code><img title="NPM" height="40" src="images/npm.svg"></code>
-  <code><img title="SASS" height="40" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="40" src="images/gulp.svg"></code>
-  <code><img title="Javascript" height="40" src="images/javascript.svg"></code>
-  <code><img title="PHP" height="40" src="images/php.svg"></code>
- <code><img title="React" height="40" src="images/react-original.svg"></code>
+ <code><img title="Gulp" height="50" src="images/gulp.svg"></code>
+ <code><img title="PHP" height="46" src="images/php.svg"></code>
+ <code><img title="AWS" height="45" src="images/aws.png"></code>
+ <code><img title="React" height="46" src="images/react-original.svg"></code>
+ <code><img title="TypeScript" height="46" src="images/typeScript.png"></code>
+ <code><img title="Spring Boot" height="46" src="images/spring_boot.png"></code>
+ <code><img title="Angular" height="52" src="images/angular.png"></code>
 <p/>
 
 <br/>
@@ -55,7 +61,7 @@
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=pmunoz410&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br/><br/><br/>
+  <br/><br/><br/><br/><br/><br/><br/><br/>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="390" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmunoz410&layout=compact&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb" />
@@ -78,7 +84,7 @@
     </a> 
   </div>
   
-  <br/><br/><br/>
+  <br/><br/><br/><br/><br/><br/><br/><br/>
   
   <div align="center">
     <a href="https://github.com/pmunoz410/blogcafe" title="Blog de Cafe" role="link" target="_blank" rel="noopener noreferrer nofollow">
