@@ -1,6 +1,6 @@
-# 
+#
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola,+soy+Paul+Muñoz;Un+gusto+conocerte;Bienvenido!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola,+soy+Paul+Muñoz;Un+gusto+conocerte;Bienvenido!)
 
 <div align="center">
   <code><a href="https://www.linkedin.com/in/p-munoz/" title="LinkedIn Profile" target="_blank"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
@@ -16,37 +16,94 @@
 <br/>
 
 <h2 align="center">🔥 Habilidades 🔥</h2>
-<p align="center">
- <!--<code><img title="C" height="40" src="images/c.svg"></code>-->
- <code><img title="C#" height="46" src="images/cSharp.svg"></code>
- <code><img title="Java" height="50" src="images/java-original.svg"></code>
- <code><img title="HTML5" height="47" src="images/html5.svg"></code>
- <code><img title="CSS3" height="50" src="images/css.svg"></code>
- <code><img title="Javascript" height="46" src="images/javascript.svg"></code>
- <code><img title="SASS" height="46" src="images/sass.svg"></code>
- <code><img title="MySQL" height="46" src="images/mysql.svg"></code>
- <code><img title="PostgreSQL" height="46" src="images/postgresql.svg"></code>
-  
- <code><img title="NPM" height="46" src="images/npm.svg"></code>
- <code><img title="Linux" height="46" src="images/linux.png"></code>
- <code><img title="Git" height="46" src="images/git-original.svg"></code>
- <code><img title="GitHub" height="46" src="images/github.svg"></code>
- <code><img title="Visual Studio Code" height="46" src="images/vscode.png"></code>
- <code><img title="Microsoft Visual Studio" height="46" src="images/visualstudio.png"></code>
-<p/>
+
+<table align="center">
+  <tr>
+    <!-- Columna 1 -->
+    <td align="center" valign="top">
+      <h3 align="center">🧑‍💻 Lenguajes de programación</h3>
+      <code><img title="C#" src="images/cSharp.svg" style="height: 46px; width: 46px;"></code>
+      <code><img title="Java" src="images/java-original.svg" style="height: 50px; width: 50px;"></code>
+      <code><img title="JavaScript" src="images/javascript.svg" style="height: 46px; width: 46px;"></code>
+      <h3 align="center">🌐 Tecnologías Web y Estilos</h3>
+      <code><img title="HTML5" src="images/html5.svg" style="height: 50px; width: 50px; padding-bottom: 3px;"></code>
+      <code><img title="CSS3" src="images/css.svg" style="height: 57px; width: 57px;"></code>
+      <code><img title="SASS" src="images/sass.svg" style="height: 50px; width: 50px;"></code>
+      <h3 align="center">🚀 Frameworks y librerías</h3>
+      <code><img title="React" src="images/react-original.svg" style="height: 46px; width: 46px;"></code>
+      <code><img title="Spring Boot" src="images/spring-boot.png" style="height: 45px; width: 45px;"></code>
+      <code><img title="Bootstrap" src="images/bootstrap-5.webp" style="height: 50px; width: 50px;"></code>
+      <code><img title="Tailwind CSS" src="images/tailwindcss.webp" style="height: 30px; width: 50px; padding-bottom: 10px;"></code>
+      <h3 align="center">🛢️ Bases de datos y herramientas de gestión</h3>
+      <code><img title="MySQL" src="images/mysql.svg" style="height: 46px; width: 46px;"></code>
+      <code><img title="PostgreSQL" src="images/postgresql.svg" style="height: 46px; width: 46px;"></code>
+      <code><img title="SQL Server" src="images/sql-server.png" style="height: 46px; width: 46px;"></code>
+      <code><img title="TablePlus" src="images/tableplus.webp" style="height: 46px; width: 62px;"></code>
+    </td>
+    <!-- Columna 2 -->
+    <td align="center" valign="top">
+      <h3 align="center">🧑‍💻 IDEs y editores</h3>
+      <code><img title="VS Code" src="images/vscode.png" style="height: 46px; width: 46px;"></code>
+      <code><img title="Visual Studio" src="images/visualstudio.png" style="height: 46px; width: 46px;"></code>
+      <code><img title="IntelliJ IDEA" src="images/intellij-idea.png" style="height: 46px; width: 46px;"></code>
+      <code><img title="Eclipse" src="images/eclipse.png" style="height: 46px; width: 46px;"></code>
+      <code><img title="Android Studio" src="images/android.svg" style="height: 46px; width: 46px;"></code>
+      <code><img title="NetBeans" src="images/netbeans.png" style="height: 46px; width: 40px;"></code>
+      <h3 align="center">🛠️ Herramientas y control de versiones</h3>
+      <code><img title="Git" src="images/git-original.svg" style="height: 46px; width: 46px;"></code>
+      <code><img title="GitHub" src="images/github.svg" style="height: 46px; width: 46px;"></code>
+      <code><img title="Linux" src="images/linux.png" style="height: 46px; width: 46px;"></code>
+      <code><img title="NPM" src="images/npm.svg" style="height: 46px; width: 46px;"></code>
+      <h3 align="center">🔌 Herramientas de prueba de APIs</h3>
+      <code><img title="Postman" src="images/postman.png" style="height: 46px; width: 76px; padding-bottom: 5px;"></code>
+      <code><img title="SoapUI" src="images/soapui.png" style="height: 46px; width: 46px; padding-bottom: 5px;"></code>
+      <code><img title="Insomnia" src="images/insomnia.png" style="height: 56px; width: 56px;"></code>
+      <h3 align="center">☁️ Cloud & Hosting</h3>
+      <code><img title="Netlify" src="images/netlify.png" style="height: 46px; width: 46px;"></code>
+      <code><img title="Vercel" src="images/vercel.webp" style="height: 46px; width: 46px;"></code>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<h2 align="center">🎯 Desarrollo de competencias 🎯</h2>
+<h2 align="center">🎯 Competencias en desarrollo 🎯</h2>
+
+<table align="center">
+  <tr>
+    <!-- Columna 1 -->
+    <td align="center" valign="top">
+      <h3>🔧 Lenguajes y frameworks</h3>
+      <code><img title="PHP" src="images/php.svg" style="height: 56px; width: 56px;"></code>
+      <code><img title="TypeScript" src="images/typeScript.png" style="height: 46px; width: 62px;"></code>
+      <code><img title="Angular" src="images/angular.png" style="height: 52px; width: 54px;"></code>
+    </td>
+    <!-- Columna 2 -->
+    <td align="center" valign="top">
+      <h3>⚙️ Automatización</h3>
+      <code><img title="Gulp" src="images/gulp.svg" style="height:50px; width: 50px;"></code>
+    </td>
+    <!-- Columna 3 -->
+    <td align="center" valign="top">
+      <h3>☁️ Servicios Cloud & Backend</h3>
+        <code><img title="AWS" src="images/aws.png" style="height: 45px; width: 80px;"></code>
+        <code><img title="Firebase" src="images/firebase.png" style="height: 46px; width: 46px;"></code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- <h2 align="center">🎯 Desarrollo de competencias 🎯</h2>
 <p align="center">
- <code><img title="Gulp" height="50" src="images/gulp.svg"></code>
- <code><img title="PHP" height="46" src="images/php.svg"></code>
- <code><img title="AWS" height="45" src="images/aws.png"></code>
- <code><img title="React" height="46" src="images/react-original.svg"></code>
- <code><img title="TypeScript" height="46" src="images/typeScript.png"></code>
- <code><img title="Spring Boot" height="46" src="images/spring_boot.png"></code>
- <code><img title="Angular" height="52" src="images/angular.png"></code>
-<p/>
+ <code><img title="Gulp" src="images/gulp.svg" style="height:50px; width: 50px;"></code>
+ <code><img title="PHP" src="images/php.svg" style="height: 56px; width: 56px;"></code>
+ <code><img title="AWS" src="images/aws.png" style="height: 45px; width: 80px;"></code>
+ <code><img title="React" src="images/react-original.svg" style="height: 46px; width: 46px;"></code>
+ <code><img title="TypeScript" src="images/typeScript.png" style="height: 46px; width: 62px;"></code>
+ <code><img title="Spring Boot" src="images/spring_boot.png" style="height: 46px; width: 46px;"></code>
+ <code><img title="Angular" src="images/angular.png" style="height: 52px; width: 54px;"></code>
+<p/> -->
 
 <br/>
 
@@ -92,7 +149,6 @@
     </a>
   </div>
 </p>
-
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
