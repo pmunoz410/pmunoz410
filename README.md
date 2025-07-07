@@ -60,7 +60,7 @@
       <code><img title="Insomnia" src="images/insomnia.png" style="height: 56px; width: 56px;"></code>
       <h3 align="center">☁️ Cloud & Hosting</h3>
       <code><img title="Netlify" src="images/netlify.png" style="height: 46px; width: 46px;"></code>
-      <code><img title="Vercel" src="images/vercel.webp" style="height: 46px; width: 46px;"></code>
+      <code><img title="Vercel" src="images/vercel.webp" style="height: 46px; width: 46px;"></code><br/><br/>
     </td>
   </tr>
 </table>
@@ -87,23 +87,10 @@
     <td align="center" valign="top">
       <h3>☁️ Servicios Cloud & Backend</h3>
         <code><img title="AWS" src="images/aws.png" style="height: 45px; width: 80px;"></code>
-        <code><img title="Firebase" src="images/firebase.png" style="height: 46px; width: 46px;"></code>
+        <code><img title="Firebase" src="images/firebase.png" style="height: 46px; width: 46px;"></code><br/><br/>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- <h2 align="center">🎯 Desarrollo de competencias 🎯</h2>
-<p align="center">
- <code><img title="Gulp" src="images/gulp.svg" style="height:50px; width: 50px;"></code>
- <code><img title="PHP" src="images/php.svg" style="height: 56px; width: 56px;"></code>
- <code><img title="AWS" src="images/aws.png" style="height: 45px; width: 80px;"></code>
- <code><img title="React" src="images/react-original.svg" style="height: 46px; width: 46px;"></code>
- <code><img title="TypeScript" src="images/typeScript.png" style="height: 46px; width: 62px;"></code>
- <code><img title="Spring Boot" src="images/spring_boot.png" style="height: 46px; width: 46px;"></code>
- <code><img title="Angular" src="images/angular.png" style="height: 52px; width: 54px;"></code>
-<p/> -->
 
 <br/>
 
