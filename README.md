@@ -96,29 +96,28 @@
 
 <h2 align="center">⚡ Estadísticas ⚡</h2>
 <br>
-<p align=center>
+<div align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <!-- <a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <img align="right" width=390 src="https://streak-stats.demolab.com/?user=pmunoz410&bg_color=0d1117&theme=react&border=61dafb&hide_border=true" alt="pmunoz410" />
-    </a>
+    </a> -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=pmunoz410&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=pmunoz410&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br/><br/><br/><br/><br/><br/><br/><br/>
+  <!-- <br/><br/><br/><br/><br/><br/><br/><br/>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="390" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmunoz410&layout=compact&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb" />
     </a>
-  </div>
-  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=pmunoz410&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
-</p>
+  </div> -->
+</div>
 
 <br/>
 
 <h2 align="center">👨‍💻 Proyectos destacados 👨‍💻</h2>
 <br>
-<p align="center">
+<div align="center">
   <div align="center">
     <a href="https://github.com/pmunoz410/bienesraices" title="Bienes Raices" role="link" target="_blank" rel="noopener noreferrer nofollow">
       <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=bienesraices&theme=react&border_color=61dafb&border_radius=10">
@@ -129,13 +128,16 @@
   </div>
   
   <br/><br/><br/><br/><br/><br/><br/><br/>
-  
+
   <div align="center">
-    <a href="https://github.com/pmunoz410/blogcafe" title="Blog de Cafe" role="link" target="_blank" rel="noopener noreferrer nofollow">
-      <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=blogcafe&theme=react&border_color=61dafb&border_radius=10">
+    <a href="https://github.com/pmunoz410/calculadorapropinas" title="Calculadora de Propinas" role="link" target="_blank" rel="noopener noreferrer nofollow">
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=calculadorapropinas&theme=react&border_color=61dafb&border_radius=10">
     </a>
+    <a href="https://github.com/pmunoz410/blogcafe" title="Blog de Cafe" role="link" target="_blank" rel="noopener noreferrer nofollow">
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pmunoz410&repo=blogcafe&theme=react&border_color=61dafb&border_radius=10">
+    </a> 
   </div>
-</p>
+</div>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
