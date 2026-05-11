@@ -36,7 +36,7 @@
       <h3 align="center">⚙️ Backend</h3>
       <code><img title="Spring Boot" src="images/spring-boot.png" style="height: 45px; width: 45px;"></code>
       <code><img title="NodeJS" src="images/node-js.png" style="height: 45px; width: 40px;"></code>
-      <h3 align="center">🛢️ Bases de datos y herramientas de gestión</h3>
+      <h3 align="center">🛢️ Bases de datos</h3>
       <code><img title="PostgreSQL" src="images/postgresql.svg" style="height: 46px; width: 46px;"></code>
       <code><img title="MySQL" src="images/mysql.svg" style="height: 46px; width: 46px;"></code>
       <code><img title="SQL Server" src="images/sql-server.png" style="height: 46px; width: 46px;"></code>
