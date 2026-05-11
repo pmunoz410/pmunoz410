@@ -99,23 +99,22 @@
 
 <h2 align="center">⚡ Estadísticas ⚡</h2>
 <br>
-<p align=center>
+<div align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <img align="right" width=390 src="https://streak-stats.demolab.com/?user=pmunoz410&bg_color=0d1117&theme=react&border=61dafb&hide_border=true" alt="pmunoz410" />
+      <img align="center" width=390 src="https://streak-stats.demolab.com/?user=pmunoz410&bg_color=0d1117&theme=react&border=61dafb&hide_border=true" alt="pmunoz410" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=pmunoz410&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=pmunoz410&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a> -->
   </div>
-  <br/><br/><br/><br/><br/><br/><br/><br/>
+  <!-- <br/><br/><br/><br/><br/><br/><br/><br/>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="390" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmunoz410&layout=compact&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb" />
     </a>
-  </div>
-  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=pmunoz410&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
-</p>
+  </div> -->
+</div>
 
 <br/>
 
