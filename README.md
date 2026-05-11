@@ -4,10 +4,10 @@
 
 <br/>
 
-<p align="center">
-  Soy Paul Muñoz, desarrollador fullstack apasionado por la tecnología y el aprendizaje continuo. Disfruto construir aplicaciones, explorar nuevas herramientas y entender cómo funcionan las cosas para encontrar maneras de mejorarlas.<br/><br/>
+<p>
+  Soy Paul Muñoz, desarrollador fullstack apasionado por la tecnología y el aprendizaje continuo. Disfruto construir aplicaciones, explorar nuevas herramientas y entender cómo funcionan las cosas para encontrar maneras de mejorarlas.<br/>
 
-  Actualmente trabajo principalmente con tecnologías como Java, Spring Boot, React y TypeScript, mientras continúo explorando herramientas modernas del ecosistema cloud y DevOps.<br/><br/>
+  Actualmente trabajo principalmente con tecnologías como Java, Spring Boot, React y TypeScript, mientras continúo explorando herramientas modernas del ecosistema cloud y DevOps.<br/>
 
   En mi tiempo libre disfruto escuchar música, jugar ajedrez y ver películas. Siempre estoy en busca de nuevos desafíos y oportunidades para seguir creciendo profesionalmente y contribuir a proyectos que generen impacto.
 <p/>
@@ -104,20 +104,7 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <img align="center" width=390 src="https://streak-stats.demolab.com/?user=pmunoz410&bg_color=0d1117&theme=react&border=61dafb&hide_border=true" alt="pmunoz410" />
     </a>
-    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=pmunoz410&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a> -->
   </div>
-  <!-- <br/><br/><br/><br/><br/><br/><br/><br/>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="390" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmunoz410&layout=compact&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb" />
-    </a>
-  </div> -->
 </div>
 
 <br/>
-
-
-
-![](https://komarev.com/ghpvc/?username=pmunoz410&style=flat)
